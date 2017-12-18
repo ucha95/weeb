@@ -144,3 +144,33 @@
 	width: 1247px;
 	height: 382px;
 }
+
+.map{
+	width: 1366px;
+	height: 570px;
+	background-color: #E6E6E6;
+}
+.info{
+	display: inline-block;
+    width: 250px;
+    height: 77px;
+    padding-top: 56px;
+    padding-left: 86px;
+    vertical-align: top;
+}
+.info .li1{
+	color: #3D58A6;
+	font-size: 18px;
+}
+.info li{
+	font-size: 13px;
+}
+.map1{
+	    display: inline-block;
+        width: 876px;
+        height: 466px;
+        padding-top: 50px;
+}
+.map2{
+	display: inline-block;
+}
